@@ -4,5 +4,19 @@
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "8": {
+      "title": "8",
+      "volume": "",
+      "last_updated": "1695443218",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1gIZrdvabYK-FsmJll1VRva4bbAoiIhOF",
+          "https://drive.google.com/uc?export=view&id=1WVi0pdjEdm-JmCjTOGwg49COREakLoOD",
+          "https://drive.google.com/uc?export=view&id=1sbK_RLsLLk5RIAYNO9LJBRf8uCqSOY_f",
+          "https://drive.google.com/uc?export=view&id=1GSlYwZgxuolmlkQFJx5bkIhKC6d0qvhP"
+        ]
+      }
+    }
+  }
 }
