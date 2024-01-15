@@ -4,5 +4,16 @@
   "artist": "",
   "author": "",
   "cover": "https://cdn.discordapp.com/attachments/1093274316948377682/1196462926287097927/image.png?ex=65b7b7ee&is=65a542ee&hm=b8fe61b0094cff51c8dc8047ff66197234b8f6e93aabb01a7694dded6d4ad2c4&",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1705342364",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1b6X3NAXdfzkez03PltUtEAGUF16-M647"
+        ]
+      }
+    }
+  }
 }
