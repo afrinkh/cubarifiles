@@ -4,5 +4,429 @@
   "artist": "",
   "author": "",
   "cover": "https://cdn.discordapp.com/attachments/1093274316948377682/1196463071225458708/image.png?ex=65b7b811&is=65a54311&hm=ca6c6c32bd173edbca7e89d8b2e4ecaba17f2d30b5ab85a26506e553fd83f913&",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "",
+      "last_updated": "1705340069",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1ssfKJPXEFSqsDQsuHVdS8hC0-A04TJpF"
+        ]
+      }
+    },
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1705340143",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1C67EFjL0Ep3q3_bZ0RUdBJvvNa6YeK_m"
+        ]
+      }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "",
+      "last_updated": "1705340177",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1VuS5cpaMj1Dbzrvibfk6RDucE9a8Ul28"
+        ]
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1705340219",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1VTC2ajBtR9FT-xltgoh_H8vPqCM2ffr_"
+        ]
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1705340263",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1NBWmXXr89lyeKQi7XnFD9sNVOK6LWzrx"
+        ]
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1705340277",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1iKnw-v84jTNtHrrUzGuX95LxxKZbhApI"
+        ]
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1705340296",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1iKnw-v84jTNtHrrUzGuX95LxxKZbhApI"
+        ]
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "",
+      "last_updated": "1705340329",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1QyeZ42_Cw-mAnGjnU0d9F8xdC7j0P8Y2"
+        ]
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "",
+      "last_updated": "1705340364",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1W5gq41gOo_t0cr8mBZ3FCAyNc_YUp0Kt"
+        ]
+      }
+    },
+    "9": {
+      "title": "9",
+      "volume": "",
+      "last_updated": "1705340385",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1eEtfnCsyUIFkIpJubszROuH1mZHfPtVE",
+          "https://drive.google.com/uc?export=view&id=1u1NTQLijCER2v7_WheDGWIkDWMz6Wxg1",
+          "https://drive.google.com/uc?export=view&id=18wht7pWTx6pru6KFZhQmivzmt6MSl2AI",
+          "https://drive.google.com/uc?export=view&id=1rixJtgTs7vA6hhKDzQc53ihomlBI-Ss9",
+          "https://drive.google.com/uc?export=view&id=1hEVsRE8dUdfRvxk3Njo73gmUSRYzFo_j",
+          "https://drive.google.com/uc?export=view&id=1bkNnJ_McvlSy99O-7_R0nuIdcBYUvYuW",
+          "https://drive.google.com/uc?export=view&id=1z-rrqT8X-Saiyt6UVikVVigK759aJUUy",
+          "https://drive.google.com/uc?export=view&id=1vpaz1L7z0TwBA7dUwNtdO__CvqshDaVH",
+          "https://drive.google.com/uc?export=view&id=1zlwMuOjTUuc3sW6uF9Sv2M7WODM70tvw",
+          "https://drive.google.com/uc?export=view&id=1dIouRW5FQXBnw2Xldz7dQCVRHfZIGv-D",
+          "https://drive.google.com/uc?export=view&id=1pkoc4hehJzMk0GTODqVPHgWN7WXoB4Jz",
+          "https://drive.google.com/uc?export=view&id=1a-WPiMA7u6v1yKB8jeRKyutvRa-Ra2ob",
+          "https://drive.google.com/uc?export=view&id=1UwAoslU8UKdk74iIoFEockYYQcaY2Eyo",
+          "https://drive.google.com/uc?export=view&id=1pQx2Cbm_0qpSnskTNlLdl5bMZ7vJNOmk"
+        ]
+      }
+    },
+    "10": {
+      "title": "10",
+      "volume": "",
+      "last_updated": "1705340745",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=11hjwDNbP3GpcfButL8uyEza0mVKRWZGO"
+        ]
+      }
+    },
+    "11": {
+      "title": "11",
+      "volume": "",
+      "last_updated": "1705340801",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1v9gJCs9BHewchfEyK1dO-y0YvGcgLiJo"
+        ]
+      }
+    },
+    "12": {
+      "title": "12",
+      "volume": "",
+      "last_updated": "1705340821",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1A6ql23Ws6916qNmZBpQPn3vw7Yb5q_JQ"
+        ]
+      }
+    },
+    "13": {
+      "title": "13",
+      "volume": "",
+      "last_updated": "1705340844",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1r8OxOVN-QEZ3hSRrhGyQsyrrIait8S7x"
+        ]
+      }
+    },
+    "14": {
+      "title": "14",
+      "volume": "",
+      "last_updated": "1705340863",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1r_OvGtji4KrXtUcYqPZO7s6gyt-kHsdM"
+        ]
+      }
+    },
+    "15": {
+      "title": "15",
+      "volume": "",
+      "last_updated": "1705340894",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=11gMdZCAAhHh351RuFLJMmpNzMuPHobOC"
+        ]
+      }
+    },
+    "16": {
+      "title": "16",
+      "volume": "",
+      "last_updated": "1705340911",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=16NBGhaMCWf1j-Zf1751JJilGgcGImts2"
+        ]
+      }
+    },
+    "17": {
+      "title": "17",
+      "volume": "",
+      "last_updated": "1705340919",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1hlHBRL36yKywrK0vqN5PFE1E1EwlEJsI"
+        ]
+      }
+    },
+    "18": {
+      "title": "18",
+      "volume": "",
+      "last_updated": "1705340940",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1S7FY5kVNBtC9HNyREGcZ9fNOh4SC7y-M"
+        ]
+      }
+    },
+    "19": {
+      "title": "19",
+      "volume": "",
+      "last_updated": "1705340954",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1Ds5tZaZxiT2tGXCNRWIu0xM8Av9sYu1D"
+        ]
+      }
+    },
+    "20": {
+      "title": "20",
+      "volume": "",
+      "last_updated": "1705340970",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=17OK5zD4CUX66C17vvraqKiwFxP-nRnsi"
+        ]
+      }
+    },
+    "21": {
+      "title": "21",
+      "volume": "",
+      "last_updated": "1705340988",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1RNFNe3I1QhIbYtYbDd-jGJ-OwuxOes4Z"
+        ]
+      }
+    },
+    "22": {
+      "title": "22",
+      "volume": "",
+      "last_updated": "1705341003",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1klbdproAwizRpmDd95RztbYHOWtjm0p6"
+        ]
+      }
+    },
+    "23": {
+      "title": "23",
+      "volume": "",
+      "last_updated": "1705341011",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1rcqOgXc7QANAqBwIb8MX_4-y5pxZCZbP"
+        ]
+      }
+    },
+    "24": {
+      "title": "24",
+      "volume": "",
+      "last_updated": "1705341023",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=11JAbSPXhmPe4_xfDJ5mqoCf3iWjUH7vu"
+        ]
+      }
+    },
+    "25": {
+      "title": "25",
+      "volume": "",
+      "last_updated": "1705341043",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1bc-_SuDgRj-22okDSZdXX98-5ylBWEYY"
+        ]
+      }
+    },
+    "26": {
+      "title": "26",
+      "volume": "",
+      "last_updated": "1705341058",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1llyrME4PpXk8w920b8il-6N7qGB9SRvX"
+        ]
+      }
+    },
+    "27": {
+      "title": "27",
+      "volume": "",
+      "last_updated": "1705341073",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1gOkUR68mfVWODTFnte760OzJblbvK_G0"
+        ]
+      }
+    },
+    "28": {
+      "title": "28",
+      "volume": "",
+      "last_updated": "1705341084",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=11EXh0FRJXcbN7Y2HPxf05hJFecUokviC"
+        ]
+      }
+    },
+    "29": {
+      "title": "29",
+      "volume": "",
+      "last_updated": "1705341100",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1jsVaNLgHBmDlfGtyjXdQxgt026gEaGT5"
+        ]
+      }
+    },
+    "30": {
+      "title": "30",
+      "volume": "",
+      "last_updated": "1705341116",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1zse6BvFhGb0ZagVqmKEuDGcGoQZxjACP"
+        ]
+      }
+    },
+    "31": {
+      "title": "31",
+      "volume": "",
+      "last_updated": "1705341128",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1G3iBSMvTcPyPazwxcGnoD_7z8cC9UwCt"
+        ]
+      }
+    },
+    "32": {
+      "title": "32",
+      "volume": "",
+      "last_updated": "1705341151",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1funu7Q-wVnt7roWahmyoHdsMu5QcF0ER"
+        ]
+      }
+    },
+    "33": {
+      "title": "33",
+      "volume": "",
+      "last_updated": "1705341177",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=14p_TpyUZ3Kg67kMKLGmhgBxDs6lAY5C_"
+        ]
+      }
+    },
+    "34": {
+      "title": "34",
+      "volume": "",
+      "last_updated": "1705341192",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1EhNE_rTHoIil39loVww3NmWRIHKDSfuv"
+        ]
+      }
+    },
+    "35": {
+      "title": "35",
+      "volume": "",
+      "last_updated": "1705341207",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1GCpFpo38cUhfA1RjTfDgTUBXXCxdi_uP"
+        ]
+      }
+    },
+    "36": {
+      "title": "36",
+      "volume": "",
+      "last_updated": "1705341221",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1-pb2imTxURzPwd6snIBwT5Vhz7IdBwvD"
+        ]
+      }
+    },
+    "37": {
+      "title": "37",
+      "volume": "",
+      "last_updated": "1705341238",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1cvguYISL5ESCRoiV2cELh61e6dY0uSCE"
+        ]
+      }
+    },
+    "38": {
+      "title": "38",
+      "volume": "",
+      "last_updated": "1705341252",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1GvSZmnt9fgwfFXxzLfPXllA4IA3nHkoH"
+        ]
+      }
+    },
+    "39": {
+      "title": "39",
+      "volume": "",
+      "last_updated": "1705341260",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=19YfxKZ2xX6uT1moPsX6kDzJdLO53iFfw"
+        ]
+      }
+    },
+    "40": {
+      "title": "40",
+      "volume": "",
+      "last_updated": "1705341283",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1BvF3-MPJyML1KpHyBCWsgdgK6yzdlWcb"
+        ]
+      }
+    }
+  }
 }
