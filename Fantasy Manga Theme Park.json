@@ -6,12 +6,22 @@
   "cover": "https://cdn.discordapp.com/attachments/1093274316948377682/1196463071225458708/image.png?ex=65b7b811&is=65a54311&hm=ca6c6c32bd173edbca7e89d8b2e4ecaba17f2d30b5ab85a26506e553fd83f913&",
   "chapters": {
     "0": {
-      "title": "0",
+      "title": "Chapter 0",
       "volume": "",
       "last_updated": "1705339394",
       "groups": {
         "": [
-          "https://imgur.com/a/i3w3dmp"
+          "https://cubari.moe/read/imgur/i3w3dmp/1/1/"
+        ]
+      }
+    },
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1705339430",
+      "groups": {
+        "": [
+          "https://i.imgur.com/px0CcC6.jpg"
         ]
       }
     }
